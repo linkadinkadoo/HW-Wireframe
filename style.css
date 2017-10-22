@@ -1,0 +1,85 @@
+.wrapper{
+	width: 1024px;
+	margin: 0 auto;
+}
+
+body{
+	background: rgb(100, 100, 100);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	color: rgb(100, 100, 100);
+}
+
+#top {
+	background-color: lightgrey;
+	text-align: center;
+	padding: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 10;
+}
+
+#nav{
+	background-color: lightgrey;
+	margin-bottom: 5px;
+	padding: 30px;
+	text-align: center;
+}
+
+#sector{
+	background-color: lightgrey;
+	width: 590px;
+	padding-top: 30px;
+	padding-bottom: 0px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	float: left;
+	text-align: center;
+}
+
+#art{
+	background-color: rgb(100, 100, 100);
+	padding: 20px 10px 10px 10px;
+	margin: 30px 10px 10px 10px;
+	text-align: center;
+	color: rgb(255, 255, 255);
+}
+#button1{
+	background-color: lightgrey;
+	padding: 20px 100px 20px 100px;
+	margin: 20px 10px 10px 10px;
+	text-align: center;
+	color: rgb(100, 100, 100);
+}
+
+#button2{
+	background-color: lightgrey;
+	padding: 20px 100px 20px 100px;
+	margin: 10px 10px 10px 10px;
+	text-align: center;
+	color: rgb(100, 100, 100);
+}
+
+aside{
+	float: right;
+	padding: 30px 190px 244px 190px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color: lightgrey;
+	text-align: center;
+}
+
+footer {
+	float: left;
+	width: 100%;
+	background-color: lightgrey;
+	color: rgb(100, 100, 100);
+	margin-top: 5px;
+	margin-bottom: 80px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+
+} 
+
